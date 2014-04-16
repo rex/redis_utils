@@ -1,6 +1,6 @@
 # RedisUtils
 
-TODO: Write a gem description
+A library intended to take some of the pain out of Redis CRUD operations.
 
 ## Installation
 
