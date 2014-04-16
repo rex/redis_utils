@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/rex/redis_utils/badge.png)](https://coveralls.io/r/rex/redis_utils)
+[![Build Status](https://travis-ci.org/rex/redis_utils.svg?branch=master)](https://travis-ci.org/rex/redis_utils)
+
 # RedisUtils
 
 A library intended to take some of the pain out of Redis CRUD operations.
